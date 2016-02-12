@@ -1,5 +1,6 @@
 {
   "name": "last-release-git-tag",
+  "version": "0.0.0-semantic-release",
   "description": "Determine the version of the last release with git tags",
   "author": "Ari Porad <npm@ariporad.com> (http://github.com/ariporad)",
   "bugs": {
